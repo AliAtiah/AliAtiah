@@ -15,24 +15,14 @@
 3. 📊 **Portfolio Optimization**: Conducted Comparative Analysis of SVM, Random Forest, and XGBoost.
    - Skills: Machine Learning, Predictive Models, Python.
 
-## 💼 Experience
-
-- **Independent AI Researcher** at GoFar.ai (2022 - Present)
-   Freelance AI researcher focusing on ML, NLP, Computer Vision, and DRL.
-
-- **Founder, Quantitative Investment Manager** at Sparsfolio (2015 - 2022)
-   Utilized AI and Quantitative Finance for optimizing investment strategies.
-
-- **Researcher** at KACARE (2014 - 2015)
-
 ## 📚 Education
 
-- **Artificial Intelligence Postgraduate Professional Program** at Stanford (2020 - 2021)
+- **Artificial Intelligence Postgraduate Professional Program** at Stanford 
 
-- **MSc in Electrical Engineering** (Sparse Signal Processing) at KAUST (2012 - 2014)
+- **MSc in Electrical Engineering** (Sparse Signal Processing) at KAUST 
   Published research in IEEE International Conference in Acoustic and Speech Signal Processing (ICASSP).
 
-- **BSc in Electrical Engineering (First Honors)** at KFUPM (2008 - 2012)
+- **BSc in Electrical Engineering (First Honors)** at KFUPM 
 
 ## Key Skills 🛠️
 <table>
@@ -120,10 +110,10 @@
 </div>
 
 ## Connect with Me 🔗
-<a href="mailto:">
+<a href="mailto:aliatiah100@gmail.com">
     <img src="https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/AliAtiah/" target="_blank">
+<a href="https://www.linkedin.com/in/aliatiah100/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.behance.net/time24" target="_blank">
