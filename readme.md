@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Ali Atiah Alzahrani!
 
-🤖 AI Expert | 📐 Quant Researcher | 🧠 Data Scientist | 🌐 Portfolio Optimization
+🤖 AI Expert | 📐 Quant Researcher | 🧠 Data Scientist
 
 ## 📄 Selected Publications
 
