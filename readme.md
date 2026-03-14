@@ -4,6 +4,26 @@
 
 🧠 Data Scientist | 📊 Analytics & Modeling | 🌐 Portfolio Optimization | 🛡️ Risk Mitigation
 
+## 📄 Selected Publications
+
+1. [**Rough Path Signatures: Learning Neural RDEs for Portfolio Optimization**](https://arxiv.org/abs/2510.10728)
+   — ACM ICAIF 2025, AI Meets Quantitative Finance Session
+
+2. [**Multi-Agent Regime-Conditioned Diffusion (MARCD) for CVaR-Constrained Portfolio Decisions**](https://arxiv.org/abs/2510.10807)
+   — ACM ICAIF 2025, Rethinking Financial Time Series Session
+
+3. [**Crisis-Aware Regime-Conditioned Diffusion with CVaR Allocation**](https://arxiv.org/abs/2510.10807v1)
+   — ICLR 2024, Workshop on Financial AI
+
+## 📚 Education
+
+- **Artificial Intelligence Postgraduate Professional Program** at Stanford 
+
+- **MSc in Electrical Engineering** (Sparse Signal Processing) at KAUST 
+  Published research in IEEE International Conference in Acoustic and Speech Signal Processing (ICASSP).
+
+- **BSc in Electrical Engineering (First Honors)** at KFUPM 
+
 ## 🚀 Selected Projects
 
 1. 📈 **AI-based Risk Modelling**: Leveraged CVaR and Stochastic Volatility Models for risk assessment.
@@ -14,15 +34,6 @@
 
 3. 📊 **Portfolio Optimization**: Conducted Comparative Analysis of SVM, Random Forest, and XGBoost.
    - Skills: Machine Learning, Predictive Models, Python.
-
-## 📚 Education
-
-- **Artificial Intelligence Postgraduate Professional Program** at Stanford 
-
-- **MSc in Electrical Engineering** (Sparse Signal Processing) at KAUST 
-  Published research in IEEE International Conference in Acoustic and Speech Signal Processing (ICASSP).
-
-- **BSc in Electrical Engineering (First Honors)** at KFUPM 
 
 ## Key Skills 🛠️
 <table>
