@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Ali Atiah Alzahrani!
 
-🧠 Data Scientist | 📊 Analytics & Modeling | 🌐 Portfolio Optimization | 🛡️ Risk Mitigation
+🤖 AI Expert | 📐 Quant Researcher | 🧠 Data Scientist | 🌐 Portfolio Optimization
 
 ## 📄 Selected Publications
 
@@ -17,7 +17,7 @@
 
 ## 📚 Education
 
-- **Artificial Intelligence Postgraduate Professional Program** at Stanford 
+- **Artificial Intelligence Postgraduate Program** at Stanford 
 
 - **MSc in Electrical Engineering** (Sparse Signal Processing) at KAUST 
   Published research in IEEE International Conference in Acoustic and Speech Signal Processing (ICASSP).
